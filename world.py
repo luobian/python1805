@@ -1,1 +1,1 @@
-print('Creating a new branch is quick.')
+print('Creating a new branch is quick & simple.')
